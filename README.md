@@ -37,6 +37,6 @@ mov rax jmp rax
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DaddyDinosaur"><img src="https://github-readme-stats.vercel.app/api?username=DaddyDinosaur&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaddyDinosaur's GitHub stats" /></a>
+<a href="http://www.github.com/Snow7yt"><img src="https://github-readme-stats.vercel.app/api?username=DaddyDinosaur&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="Snow7yt's GitHub stats" /></a>
 
-<a href="https://github.com/DaddyDinosaur" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyDinosaur&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Snow7yt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyDinosaur&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
