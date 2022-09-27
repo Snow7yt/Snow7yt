@@ -6,7 +6,7 @@ RWX & ioctl drivers on top
 mov rax jmp rax
 
 
-* 🌍  I'm based in Poland
+* 🌍  I'm based in Twatt, Scottland
 * 🧠  I'm learning how to be UD as a paster
 * 🤝  I'm open to collaborating on anything
 * ⚡  I will become a master paster
