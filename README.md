@@ -1,7 +1,7 @@
 Hi 👋 My name is Snow7YT
 =====================
 # 💫 About Me:
-🌍 I'm based in Twatt, Scottland<br>🤝 I'm open to collaborating on anything<br>⚡ I will become a master paster
+🌍 I'm based in Twatt, Scottland<br>🤝 I'm open to collaborating on anything<br>⚡ I will be the worst coder ever!!!
 
 
 # 💻 Tech Stack:
